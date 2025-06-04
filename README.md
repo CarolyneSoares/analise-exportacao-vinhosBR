@@ -20,7 +20,7 @@ No contexto de alta competitividade internacional, produzir e exportar vinho sem
 
 ---
 
-## Visão Geral / Entendimento do Negócio
+## Entendimento do Negócio
 
 - **Objetivo**: Avaliar volumes e receitas de exportação e importação, entender a evolução da produção interna e da comercialização no mercado interno, e posicionar o Brasil frente ao mercado mundial de vinhos.  
 - **KPIs Principais**:  
