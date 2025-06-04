@@ -16,7 +16,9 @@ Este repositório reúne o **Tech Challenge 1 – Análise de Dados de Vinhos no
 
 ## Introdução
 
-No contexto de alta competitividade internacional, produzir e exportar vinho sem compreender tendências de mercado pode resultar em perdas significativas. Este estudo utiliza análise de dados para mapear o comportamento do mercado de vinhos brasileiro entre 2010 e 2024, fornecendo subsídios para a tomada de decisão estratégica de produtores e exportadores.
+A capacidade de antecipar cenários futuros e de compreender de forma aprofundada os dados já coletados é essencial para empresas que produzem e exportam vinhos. Oscilações inesperadas no mercado internacional podem ocasionar queda de participação ou até prejuízos consideráveis. Por isso, aplicar técnicas de análise de dados – tanto das bases internas da própria empresa quanto dos indicadores globais – representa uma vantagem estratégica, permitindo respostas mais rápidas e fundamentadas às alterações do setor.
+
+O objetivo deste estudo é examinar o volume de exportações de vinhos brasileiros ao longo dos últimos quinze anos. Para isso, empregamos Python e a biblioteca Pandas nas etapas de extração, limpeza e preparação dos dados; Matplotlib e Seaborn para geração de gráficos; Além do Power BI para construção de relatórios complementares. Com base nos insights obtidos, apresentamos recomendações de ações que possam potencializar o desempenho das exportações.
 
 ---
 
