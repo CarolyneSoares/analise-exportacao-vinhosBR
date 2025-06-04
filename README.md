@@ -63,7 +63,7 @@ O objetivo deste estudo é examinar o volume de exportações de vinhos brasilei
   5. **Blocos de Markdown explicativos**: cada etapa de código vem acompanhada de comentários sobre lógica e interpretação dos resultados.
 
 ### 3. `relatorios_complementares/visuais_individuais_pbi.pbix`
-- Relatórios em Power BI que complementa o PDF para as análises.
+- Relatórios em Power BI que complementam o PDF para as análises.
 
 ### 4. `relatorios_complementares/visuais_individuais_ppt.pptx`
 - Apresentação em PowerPoint que contém cada visual gerado no Power BI em slides separados.
