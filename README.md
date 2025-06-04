@@ -1,4 +1,4 @@
-# 🍇🍷Análise da Dados de Vinhos Brasileiros(2010–2024)
+# 🍇🍷Análise de Dados de Vinhos Brasileiros(2010–2024)
 
 Este repositório reúne o **Tech Challenge 1 – Análise de Dados de Vinhos no Brasil de 2010 a 2024**, desenvolvido no curso de Pós-Tech em Data Analytics da FIAP. O projeto investiga quatro dimensões principais do mercado vinícola nacional (exportação, importação, produção e comercialização interna) e compara o cenário brasileiro com indicadores globais.
 
